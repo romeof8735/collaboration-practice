@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome
 #### 10
-#### 11 Github is great
+#### 11 Github and IDE is great
 #### 12
 #### 13
 #### 14
